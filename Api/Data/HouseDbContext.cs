@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 public class HouseDbContext : DbContext
 {
     public DbSet<HouseEntity> Houses => Set<HouseEntity>();
+    public HouseDbContext(DbContextOptions<HouseDbContext> options) : base(options) { }
     
     protected override void OnConfiguring(DbContextOptionsBuilder options)
     {
