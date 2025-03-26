@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xF8vDzzkjk8=",
+  "dgSpecHash": "JL2uYwRNUi4=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\SPA App\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Projects\\SPA App\\api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ovidiu.Diatlov\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Ovidiu.Diatlov\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
